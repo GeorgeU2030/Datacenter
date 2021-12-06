@@ -130,7 +130,7 @@ System.out.println("Enter the name Project");
 String nameProject= sc.next();
 String company = "ICESI";
 String nit="NIT 890.316.745-5";
-System.out.println(data.showDisponible());
+System.out.println(data.showAvailable());
 System.out.println("Enter the number of the Miniroom");
 int numberR=sc.nextInt();
 System.out.println("Enter the day");
